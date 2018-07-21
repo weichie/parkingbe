@@ -1,0 +1,15 @@
+.searchbar h1{
+	color: #ffffff;
+}
+.search-input{
+	border: none;
+	display: block;
+	background: #ffffff;
+	font-size: 18px;
+	font-weight: 300;
+	color: #31333f;
+	padding: 10px 20px;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 400px;
+}
